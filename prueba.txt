@@ -1,0 +1,3 @@
+esta es una prueba realizada en git mediante el visual studio code :)
+esta sujeta a cambios y con el cual se experimentara futuramente camarada.
+simplemente es el inicio de algo mas grande :).
